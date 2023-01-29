@@ -2,5 +2,4 @@ x='hello world'
 y='bye world'
 z=x+' '+y
 print(z)
-print(x)
-
+print(y)
