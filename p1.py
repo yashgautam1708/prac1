@@ -1,5 +1,6 @@
-x='hello world'
+xx='hello world'
 y='bye world'
+k='here also'
 z=x+' '+y
 print(z)
 print(y)
