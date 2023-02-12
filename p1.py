@@ -1,8 +1,7 @@
-xx='hello world'
+x='hello world'
 y='bye world'
-k='here also'
 z=x+' '+y
 print(z)
 print(y)
-dd='please'
+a='create pr'
 b='lets try a new change with conflict'
