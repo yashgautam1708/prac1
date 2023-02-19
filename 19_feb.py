@@ -1,3 +1,2 @@
-'1st line'
-'2nd line'
-'nonono'
+'first'
+'second'
